@@ -1,0 +1,19 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Python
+__pycache__/
+
+# Data
+weights/
+segmentation_full_body_tik_tok_2615_img/
+newvenv/
+
+# Videos
+videos_and_outputs/
