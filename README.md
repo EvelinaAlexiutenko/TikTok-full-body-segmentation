@@ -26,7 +26,34 @@ For another one(local training):
   <img src="https://user-images.githubusercontent.com/58363847/162637297-5ec87709-2e17-4db3-8c06-a9facac0a8a9.png"/>
   <img src="https://user-images.githubusercontent.com/58363847/162637298-8ce9fb4c-70a0-44c5-9120-403d4a71b65f.png"/>
 </p>
-
+<details>
+  <summary><em>References</em></summary>
+  1. https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-tiktok-dancing-dataset - TikTok full body segmentation dataset;
+  
+  2. https://www.youtube.com/watch?v=J_XSd_u_Yew&t=126s&ab_channel=DigitalSreeni - Semantic Segmentation;
+  
+  3. https://arxiv.org/abs/1505.04597 - U-Net;
+  
+  4. https://github.com/maxvfischer/keras-image-segmentation-loss-functions - Types of loss function for semantic segmentation;
+  
+  5. https://pycad.co/the-difference-between-dice-and-dice-loss/ - Dice metric ans dice loss;
+  
+  6. https://www.youtube.com/watch?v=qrL22HEaUGA&t=3840s&ab_channel=IdiotDeveloper - UNet Semantic Segmentation;
+  <br>
+     For solving GPU run out:
+ 
+  7. https://www.youtube.com/watch?v=hHWkvEcDBO0&t=196s&ab_channel=AladdinPersson;
+  
+  8. https://stackoverflow.com/questions/36927607/how-can-i-solve-ran-out-of-gpu-memory-in-tensorflow;
+  
+  9. https://www.tensorflow.org/guide/gpu#limiting_gpu_memory_growth;
+  
+  10. https://stackoverflow.com/questions/60487683/why-am-i-getting-memory-allocation-error-even-on-batch-size-1;
+  
+  11. https://www.tensorflow.org/api_docs/python/tf/config/experimental/set_memory_growth;
+  
+  12. https://stackoverflow.com/questions/65385221/running-out-of-memory-so-quickly-tensorflow-gpu.
+     </details>
 ## Contact
 
 Evelina Alexiutenko - [LinkedIn](https://www.linkedin.com/in/evelina-alexiutenko-5527b21a7/) - evelina.alexiutenko@stud.onu.edu.ua
