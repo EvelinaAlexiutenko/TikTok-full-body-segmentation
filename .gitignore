@@ -17,3 +17,5 @@ newvenv/
 
 # Videos
 videos_and_outputs/
+
+*.csv
