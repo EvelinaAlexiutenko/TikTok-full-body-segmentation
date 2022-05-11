@@ -27,7 +27,7 @@ For another one(local training):
   <img src="https://user-images.githubusercontent.com/58363847/162637298-8ce9fb4c-70a0-44c5-9120-403d4a71b65f.png"/>
 </p>
 <details>
-  <summary><em>References</em></summary>
+     <summary><em>References</em></summary>
   1. https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-tiktok-dancing-dataset - TikTok full body segmentation dataset;
   
   2. https://www.youtube.com/watch?v=J_XSd_u_Yew&t=126s&ab_channel=DigitalSreeni - Semantic Segmentation;
